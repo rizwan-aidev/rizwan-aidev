@@ -98,5 +98,5 @@
 I'm available for freelance projects — AI automation, LLM integration, SaaS development.
 
 - 🔗 **Upwork:** [upwork.com/freelancers/~01ffd5c6cd18671b7b](https://www.upwork.com/freelancers/~01ffd5c6cd18671b7b)
-- 📧 **Email:** YOUR_EMAIL_HERE
+- 📧 **Email:** e.rizwan98@gmail.com
 - ⏱️ **Response time:** 4–8 hours
